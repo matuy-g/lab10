@@ -11,6 +11,7 @@
 https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ![alt text](6b5117915527810f6a2d20a9e38d5f46_ce_590x394x0x121.jpg)
 Пример кода: 
+
 #include <iostream>
 using namespace ::std;
 int main()
@@ -19,3 +20,4 @@ int main()
 	cin >> a;
 	cout << a;
 }
+
